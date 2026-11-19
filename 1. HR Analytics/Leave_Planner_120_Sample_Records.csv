@@ -1,0 +1,121 @@
+Employee Name,Employee ID,Department,Leave Type,Start Date,End Date,Duration Days,Status,Comments
+Karan,E1000,HR,Comp Off,2027-07-04,2027-07-06,3,Approved,Generated sample entry
+Karan,E1001,Engineering,Comp Off,2027-09-23,2027-09-24,2,Approved,Generated sample entry
+Vikram,E1002,Operations,WFH,2027-08-05,2027-08-09,5,Planned,Generated sample entry
+Pooja,E1003,Operations,Business Travel,2027-09-11,2027-09-14,4,Approved,Generated sample entry
+Pooja,E1004,Operations,Sick Leave,2027-08-23,2027-08-24,2,Pending,Generated sample entry
+Karan,E1005,HR,Comp Off,2027-12-12,2027-12-16,5,Planned,Generated sample entry
+Pooja,E1006,Engineering,Business Travel,2027-12-16,2027-12-20,5,Pending,Generated sample entry
+Pooja,E1007,Engineering,Comp Off,2027-12-05,2027-12-08,4,Pending,Generated sample entry
+Rahul,E1008,HR,Emergency Leave,2027-04-23,2027-04-24,2,Planned,Generated sample entry
+Karan,E1009,Sales,Sick Leave,2027-10-04,2027-10-06,3,Planned,Generated sample entry
+Karan,E1010,Engineering,Annual Leave,2027-01-20,2027-01-21,2,Approved,Generated sample entry
+Sneha,E1011,Finance,WFH,2027-07-23,2027-07-26,4,Approved,Generated sample entry
+Anjali,E1012,Sales,Business Travel,2027-12-15,2027-12-19,5,Planned,Generated sample entry
+Ashutosh,E1013,Sales,Emergency Leave,2027-10-16,2027-10-20,5,Planned,Generated sample entry
+Priya,E1014,Engineering,Public Holiday,2027-08-05,2027-08-08,4,Pending,Generated sample entry
+Neha,E1015,Engineering,Emergency Leave,2027-08-28,2027-08-29,2,Pending,Generated sample entry
+Rahul,E1016,HR,Comp Off,2027-01-27,2027-01-31,5,Pending,Generated sample entry
+Neha,E1017,Sales,Business Travel,2027-09-21,2027-09-25,5,Approved,Generated sample entry
+Anjali,E1018,Engineering,Study Leave,2027-03-01,2027-03-04,4,Pending,Generated sample entry
+Priya,E1019,Engineering,Public Holiday,2027-05-10,2027-05-10,1,Pending,Generated sample entry
+Neha,E1020,Finance,Emergency Leave,2027-03-24,2027-03-27,4,Pending,Generated sample entry
+Anjali,E1021,Finance,Annual Leave,2027-11-15,2027-11-18,4,Approved,Generated sample entry
+Ashutosh,E1022,Sales,Annual Leave,2027-07-26,2027-07-28,3,Planned,Generated sample entry
+Priya,E1023,Engineering,Sick Leave,2027-09-28,2027-09-28,1,Planned,Generated sample entry
+Rahul,E1024,Engineering,Study Leave,2027-12-12,2027-12-13,2,Planned,Generated sample entry
+Neha,E1025,Operations,WFH,2027-09-21,2027-09-22,2,Planned,Generated sample entry
+Neha,E1026,HR,WFH,2027-05-31,2027-06-02,3,Planned,Generated sample entry
+Amit,E1027,HR,Annual Leave,2027-07-03,2027-07-05,3,Planned,Generated sample entry
+Anjali,E1028,Operations,Public Holiday,2027-04-07,2027-04-07,1,Pending,Generated sample entry
+Vikram,E1029,Engineering,Annual Leave,2027-07-16,2027-07-19,4,Pending,Generated sample entry
+Sneha,E1030,Finance,Business Travel,2027-06-27,2027-06-27,1,Planned,Generated sample entry
+Rahul,E1031,Finance,Emergency Leave,2027-04-07,2027-04-09,3,Approved,Generated sample entry
+Rahul,E1032,Operations,WFH,2027-06-29,2027-07-01,3,Pending,Generated sample entry
+Priya,E1033,HR,Training,2027-08-10,2027-08-12,3,Approved,Generated sample entry
+Karan,E1034,Sales,Training,2027-11-07,2027-11-08,2,Pending,Generated sample entry
+Anjali,E1035,HR,WFH,2027-04-08,2027-04-10,3,Approved,Generated sample entry
+Amit,E1036,HR,Training,2027-08-10,2027-08-12,3,Pending,Generated sample entry
+Anjali,E1037,Engineering,Public Holiday,2027-09-16,2027-09-17,2,Planned,Generated sample entry
+Ashutosh,E1038,Engineering,Public Holiday,2027-12-10,2027-12-12,3,Planned,Generated sample entry
+Amit,E1039,Finance,WFH,2027-12-25,2027-12-25,1,Pending,Generated sample entry
+Anjali,E1040,Finance,Training,2027-02-01,2027-02-05,5,Approved,Generated sample entry
+Priya,E1041,Sales,Training,2027-02-22,2027-02-23,2,Approved,Generated sample entry
+Neha,E1042,HR,Public Holiday,2027-04-12,2027-04-14,3,Pending,Generated sample entry
+Karan,E1043,Operations,Sick Leave,2027-07-10,2027-07-13,4,Pending,Generated sample entry
+Amit,E1044,Engineering,Mental Health Day,2027-11-27,2027-11-29,3,Approved,Generated sample entry
+Pooja,E1045,Operations,Mental Health Day,2027-11-11,2027-11-14,4,Approved,Generated sample entry
+Pooja,E1046,Engineering,Emergency Leave,2027-09-11,2027-09-15,5,Planned,Generated sample entry
+Sneha,E1047,Engineering,Emergency Leave,2027-12-06,2027-12-08,3,Planned,Generated sample entry
+Priya,E1048,Finance,Public Holiday,2027-10-27,2027-10-27,1,Approved,Generated sample entry
+Karan,E1049,Finance,Business Travel,2027-04-21,2027-04-23,3,Approved,Generated sample entry
+Vikram,E1050,Sales,Sick Leave,2027-12-24,2027-12-26,3,Approved,Generated sample entry
+Ashutosh,E1051,HR,Emergency Leave,2027-10-08,2027-10-09,2,Pending,Generated sample entry
+Amit,E1052,Engineering,Public Holiday,2027-10-25,2027-10-25,1,Planned,Generated sample entry
+Ashutosh,E1053,Engineering,Business Travel,2027-04-16,2027-04-18,3,Planned,Generated sample entry
+Anjali,E1054,Engineering,Sick Leave,2027-10-05,2027-10-08,4,Pending,Generated sample entry
+Anjali,E1055,Engineering,Business Travel,2027-09-14,2027-09-14,1,Approved,Generated sample entry
+Karan,E1056,Engineering,Annual Leave,2027-11-22,2027-11-23,2,Pending,Generated sample entry
+Pooja,E1057,Engineering,Sick Leave,2027-07-10,2027-07-13,4,Approved,Generated sample entry
+Sneha,E1058,HR,Public Holiday,2027-12-22,2027-12-22,1,Planned,Generated sample entry
+Amit,E1059,Operations,Annual Leave,2027-08-29,2027-09-02,5,Approved,Generated sample entry
+Amit,E1060,Engineering,Mental Health Day,2027-07-02,2027-07-03,2,Pending,Generated sample entry
+Anjali,E1061,Finance,Comp Off,2027-11-01,2027-11-02,2,Planned,Generated sample entry
+Pooja,E1062,HR,Training,2027-05-06,2027-05-09,4,Approved,Generated sample entry
+Anjali,E1063,Operations,Training,2027-02-01,2027-02-03,3,Planned,Generated sample entry
+Priya,E1064,Engineering,Emergency Leave,2027-01-26,2027-01-28,3,Approved,Generated sample entry
+Ashutosh,E1065,HR,Study Leave,2027-12-20,2027-12-23,4,Pending,Generated sample entry
+Amit,E1066,Sales,Annual Leave,2027-10-11,2027-10-15,5,Approved,Generated sample entry
+Ashutosh,E1067,Sales,Study Leave,2027-03-14,2027-03-14,1,Planned,Generated sample entry
+Priya,E1068,HR,Study Leave,2027-06-18,2027-06-21,4,Planned,Generated sample entry
+Neha,E1069,HR,Mental Health Day,2027-02-25,2027-02-25,1,Pending,Generated sample entry
+Amit,E1070,HR,WFH,2027-10-27,2027-10-30,4,Planned,Generated sample entry
+Neha,E1071,Engineering,Emergency Leave,2027-09-11,2027-09-14,4,Approved,Generated sample entry
+Pooja,E1072,Engineering,WFH,2027-11-07,2027-11-07,1,Pending,Generated sample entry
+Vikram,E1073,Sales,WFH,2027-07-17,2027-07-21,5,Pending,Generated sample entry
+Karan,E1074,Engineering,Training,2027-12-03,2027-12-04,2,Approved,Generated sample entry
+Ashutosh,E1075,Finance,Emergency Leave,2027-02-14,2027-02-14,1,Pending,Generated sample entry
+Amit,E1076,HR,Training,2027-07-17,2027-07-18,2,Pending,Generated sample entry
+Karan,E1077,Operations,Emergency Leave,2027-11-21,2027-11-25,5,Pending,Generated sample entry
+Anjali,E1078,Engineering,Emergency Leave,2027-10-06,2027-10-09,4,Approved,Generated sample entry
+Neha,E1079,Operations,Comp Off,2027-09-26,2027-09-27,2,Planned,Generated sample entry
+Pooja,E1080,Operations,Study Leave,2027-05-10,2027-05-10,1,Pending,Generated sample entry
+Vikram,E1081,Engineering,Sick Leave,2027-02-25,2027-02-27,3,Planned,Generated sample entry
+Priya,E1082,Operations,Emergency Leave,2027-10-31,2027-11-03,4,Approved,Generated sample entry
+Rahul,E1083,Operations,Comp Off,2027-01-29,2027-02-02,5,Planned,Generated sample entry
+Vikram,E1084,HR,Study Leave,2027-06-24,2027-06-25,2,Planned,Generated sample entry
+Priya,E1085,Finance,Public Holiday,2027-11-24,2027-11-26,3,Pending,Generated sample entry
+Ashutosh,E1086,Finance,Comp Off,2027-06-10,2027-06-14,5,Approved,Generated sample entry
+Rahul,E1087,Engineering,Business Travel,2027-11-02,2027-11-05,4,Pending,Generated sample entry
+Ashutosh,E1088,Sales,Annual Leave,2027-05-21,2027-05-24,4,Pending,Generated sample entry
+Ashutosh,E1089,Operations,Mental Health Day,2027-09-13,2027-09-14,2,Planned,Generated sample entry
+Neha,E1090,Finance,Public Holiday,2027-08-25,2027-08-29,5,Pending,Generated sample entry
+Priya,E1091,Finance,Annual Leave,2027-02-13,2027-02-15,3,Pending,Generated sample entry
+Rahul,E1092,Engineering,Comp Off,2027-07-15,2027-07-18,4,Approved,Generated sample entry
+Amit,E1093,Sales,Sick Leave,2027-01-23,2027-01-26,4,Planned,Generated sample entry
+Karan,E1094,Sales,Study Leave,2027-01-29,2027-02-01,4,Pending,Generated sample entry
+Priya,E1095,Finance,Training,2027-11-07,2027-11-09,3,Pending,Generated sample entry
+Rahul,E1096,Finance,Public Holiday,2027-06-26,2027-06-30,5,Approved,Generated sample entry
+Amit,E1097,Sales,Study Leave,2027-03-26,2027-03-30,5,Pending,Generated sample entry
+Karan,E1098,Finance,Business Travel,2027-01-12,2027-01-13,2,Planned,Generated sample entry
+Vikram,E1099,Sales,Business Travel,2027-12-07,2027-12-08,2,Planned,Generated sample entry
+Pooja,E1100,Sales,Annual Leave,2027-11-07,2027-11-08,2,Approved,Generated sample entry
+Neha,E1101,Operations,Sick Leave,2027-08-13,2027-08-14,2,Pending,Generated sample entry
+Rahul,E1102,Finance,Business Travel,2027-06-08,2027-06-12,5,Pending,Generated sample entry
+Vikram,E1103,Operations,WFH,2027-05-15,2027-05-18,4,Approved,Generated sample entry
+Neha,E1104,Finance,Training,2027-02-16,2027-02-16,1,Planned,Generated sample entry
+Sneha,E1105,Engineering,Emergency Leave,2027-08-18,2027-08-22,5,Approved,Generated sample entry
+Sneha,E1106,Operations,Annual Leave,2027-03-03,2027-03-05,3,Pending,Generated sample entry
+Karan,E1107,Sales,Emergency Leave,2027-05-22,2027-05-22,1,Planned,Generated sample entry
+Anjali,E1108,Engineering,Public Holiday,2027-11-25,2027-11-27,3,Approved,Generated sample entry
+Anjali,E1109,HR,Study Leave,2027-01-07,2027-01-11,5,Approved,Generated sample entry
+Karan,E1110,HR,Annual Leave,2027-10-01,2027-10-02,2,Pending,Generated sample entry
+Vikram,E1111,Sales,Mental Health Day,2027-08-16,2027-08-18,3,Approved,Generated sample entry
+Neha,E1112,HR,Mental Health Day,2027-01-18,2027-01-21,4,Approved,Generated sample entry
+Amit,E1113,HR,Business Travel,2027-12-21,2027-12-21,1,Pending,Generated sample entry
+Anjali,E1114,Operations,Annual Leave,2027-07-25,2027-07-28,4,Approved,Generated sample entry
+Vikram,E1115,Operations,Study Leave,2027-02-22,2027-02-23,2,Approved,Generated sample entry
+Vikram,E1116,Finance,Public Holiday,2027-10-28,2027-10-28,1,Planned,Generated sample entry
+Vikram,E1117,Engineering,Comp Off,2027-02-20,2027-02-21,2,Approved,Generated sample entry
+Amit,E1118,Operations,Training,2027-07-28,2027-08-01,5,Pending,Generated sample entry
+Neha,E1119,Sales,Training,2027-01-05,2027-01-06,2,Pending,Generated sample entry
